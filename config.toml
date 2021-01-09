@@ -43,7 +43,7 @@ theme = "hugo-elate"
   
   # Hero section
   [params.hero]
-    title = "Expand your business through technology..."
+    title = "Enabling Business with Digital Innovation, Transformation, and Technology Adoption"
     subtitle = ''
  
   # Intro section
