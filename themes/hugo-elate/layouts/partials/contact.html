@@ -35,7 +35,7 @@
                     <div class="form-group ">
                         {{ with .Site.Params.contact.phone }}
                         <label for="phone" class="sr-only">{{ . | markdownify }}</label>
-                        <input id="phone" class="form-control" name="phone" placeholder="{{ . }}" type="text"> {{ end }}
+                        <input id="phone" class="form-control" name="phone" placeholder="{{ . }}" type="text" required="true"> {{ end }}
                     </div>
                     <div class="form-group ">
                         {{ with .Site.Params.contact.message }}

@@ -1,6 +1,6 @@
 # Page settings
 baseurl = "localhost:1313"
-title = "TakeOff solutions"
+title = "TakeOff Solutions"
 languageCode = "en-us"
 theme = "hugo-elate"
 
@@ -248,7 +248,7 @@ theme = "hugo-elate"
     # Available icons: http://simplelineicons.com/
     details = [
         #["icon-home", "5555 Love Paradise 56 New Clity 5655, <br> Excel Tower United Kingdom"],
-        ["icon-phone", "+91 8208884729/ 9049193672"],
+        ["icon-phone", "+91 9049193672/ 8208884729"],
         ["icon-envelope", "enquireforwebsite@gmail.com"],
         #["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
       ]
