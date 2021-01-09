@@ -1,6 +1,6 @@
 # Page settings
 baseurl = "localhost:1313"
-title = "TakeOff Solutions"
+title = "TechOff Solutions"
 languageCode = "en-us"
 theme = "hugo-elate"
 
