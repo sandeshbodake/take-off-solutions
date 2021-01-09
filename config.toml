@@ -1,6 +1,6 @@
 # Page settings
 baseurl = "localhost:1313"
-title = "Elate theme"
+title = "TakeOff solutions"
 languageCode = "en-us"
 theme = "hugo-elate"
 
@@ -52,21 +52,21 @@ theme = "hugo-elate"
 
   [[params.intro.item]]
     title = "Plan"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "We define your goals, understands and analyse business requirements, functions, features and other specifications are documented. Planning and strategy will be decided on the basis of project structure."
     url = "#"
     icon = "icon-bulb"
     img = "img_7.jpg"
 
   [[params.intro.item]]
     title = "Develop"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "After documenting all the requirements, We move on to write a code using the best industry practices to produce a clean and user friendly website. We also make sure to inform you regularly about current status of the application."
     url = "#"
     icon = "icon-wrench"
     img = "img_8.jpg"
 
   [[params.intro.item]]
     title = "Launch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Hooray!!! Now its a time to show your presence in the digital world. Apart from that We provide free technical support for a period of time and are always available to make additions and improvements, as required. "
     url = "#"
     icon = "icon-rocket"
     img = "img_10.jpg"
@@ -152,37 +152,33 @@ theme = "hugo-elate"
   [params.services]
     enable = true
     title = "Services"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "To show your presence and compete in digital world, you need an application. TechOff solutions provides below services which help to expand your business."
 
     [[params.services.item]]
-      title = "Brand &amp; Strategy"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      title = "Web Application & Development"
+      description = "An average user interface and functionality will yield average results. Use full potential of the website using our web application & development service."
       icon = "icon-anchor"
 
     [[params.services.item]]
-      title = "Web &amp; Interface"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
+      title = "e-Commerce Application Development"
+      description = "Online shopping has now become a part of our economy and is been firmly established. We assure your customers able to shop on your website with ease and with confidence."
       icon = "icon-layers2"
-    [[params.services.item]]
-      title = "Photo &amp; Video"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-video2"
 
-      [[params.services.item]]
-      title = "CMS &amp; eCommerce"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"      
+    [[params.services.item]]
+      title = "Support & Maintenance"
+      description = "Increase your business productivity, add more features, flexibility and realize significant cost benefits to your business with innovative software application maintenance and enhancements."      
       icon = "icon-monitor"
 
   # About section
   [params.about]
     enable = true
     title = "About Us"
-    description = "We know that every business work differently and our approach involves deep analysis and understanding of your business to create the right solution which helps to grow your business on the next level."
+    description = "We know that every business work differently and our approach involves deep analysis and understanding of your business to create the right solution. We are well qualified to build, accelerate and innovate ideas in reality.."
 
     [[params.about.item]]
-      name = "Jean Smith"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      name = "Vision"
+      # position = "Web Designer"
+      description = "To become well known organisation and fly in the cloud of technology to reach next level."
       img = "person1.jpg"
       alt = "Person1"
       #social = [
@@ -192,23 +188,11 @@ theme = "hugo-elate"
       # ]
 
     [[params.about.item]]
-      name = "Rob Smith"
-      position = "Web Developer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      name = "Mission"
+      # position = "Web Developer"
+      description = "To deliver superior value and quality to our customers. Help customers to grow their business by providing innovative technological solution."
       img = "person2.jpg"
       alt = "Person2"
-      #social = [
-      #  ["icon-twitter", "#"],
-      #  ["icon-facebook", "#"],
-      #  ["icon-linkedin", "#"]
-      # ]
-
-    [[params.about.item]]
-      name = "Larry Ben"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person3.jpg"
-      alt = "Person3"
       #social = [
       #  ["icon-twitter", "#"],
       #  ["icon-facebook", "#"],
@@ -258,14 +242,14 @@ theme = "hugo-elate"
     enable = true
     map = false
     form = true
-    title = "Get in touch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "GET IN TOUCH WITH US !"
+    description = "If you are looking for a website to grow your business and wants to show your presence in todays digital world or if you have an idea which you wants to be in reality, then you are landed on right location. So feel free to reach us and lets take off to fly in IT world..."
     
     # Available icons: http://simplelineicons.com/
     details = [
         #["icon-home", "5555 Love Paradise 56 New Clity 5655, <br> Excel Tower United Kingdom"],
         ["icon-phone", "+91 8208884729/ 9049193672"],
-        ["icon-envelope", "info@freehtml5.co"],
+        ["icon-envelope", "enquireforwebsite@gmail.com"],
         #["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
       ]
 
